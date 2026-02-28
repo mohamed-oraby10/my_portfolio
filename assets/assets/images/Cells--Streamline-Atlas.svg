@@ -1,0 +1,9 @@
+<svg id="Cells--Streamline-Atlas" xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 64 64" height="64" width="64">
+  <desc>
+    Cells Streamline Icon: https://streamlinehq.com
+  </desc>
+  <defs></defs>
+  <path d="m17.5 56.25 -12.5 -7.5 0 -15 12.5 -7.5 12.5 7.5 0 15 -12.5 7.5z" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="4"></path>
+  <path d="m42.5 56.25 -12.5 -7.5 0 -15 12.5 -7.5 12.5 7.5 0 15 -12.5 7.5z" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="4"></path>
+  <path d="m30 33.75 -12.5 -7.5 0 -15 12.5 -7.5 12.5 7.5 0 15 -12.5 7.5z" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="4"></path>
+</svg>
