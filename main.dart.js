@@ -71207,8 +71207,8 @@ I(a){var s=null,r=A.bS("Hi, I\u2019m Mohamed \ud83d\udc4b",B.P4.eP(A.bI(A.ad(a))
 return A.cO(A.b([new A.bY(new A.aH(80,96,80,96),A.jl(A.b([A.wq(A.cO(A.b([r,q,A.bg(A.bS(u.l,B.af,s),s,p.a.a*o),new A.xl(s),A.bg(s,48,s),new A.ra(s,s)],n),B.ag)),new A.Mz(s)],n),B.I,B.eE),s)],n),B.I)}}
 A.qv.prototype={
 a7B(){var s=document.createElement("a")
-s.href="/my_portfolio/assets/assets/cv/Mohamed_Oraby_CV.pdf"
-s.setAttribute("download","Mohamed_Oraby_CV.pdf")
+s.href="/my_portfolio/assets/assets/cv/Mohamed Oraby_CV.pdf"
+s.setAttribute("download","Mohamed Oraby_CV.pdf")
 s.click()},
 I(a){var s=null,r=this.c
 return new A.bY(new A.aH(16,0,16,0),new A.GK(this.ga7A(),s,s,s,A.alp(s,s,s,s,s,s,s,s,s,s,s,new A.P(r==null?1/0:r,36),s,s,s,s,s,s,s,s),s,s,!1,s,s,A.bS("Download CV",s,s),s),s)}}
